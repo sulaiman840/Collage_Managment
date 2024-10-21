@@ -1,0 +1,7 @@
+
+class Config {
+  static const String token =
+'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2F1dGgvZW1wbG95ZV9sb2dpbiIsImlhdCI6MTcxOTcxNzk5MywiZXhwIjoxNzE5NzIxNTkzLCJuYmYiOjE3MTk3MTc5OTMsImp0aSI6Im1zaUE3RFJJSkxmMTJVQkYiLCJzdWIiOiIxIiwicHJ2IjoiOWQyNDMzMWE5OWM2YTcwMTA0NzA5YTdkODFmNGFjNmY4NDBjMDMyOCJ9.gYWT6Hg_zttYsPdQJ7DTBut_3fl_j-K7BohXfaC1EQo';
+  static const String baseUrl = 'http://127.0.0.1:8000/api/labman';
+
+}
